@@ -1,0 +1,11 @@
+:root {
+	--twitch-purple: #9047ff;
+	--twitch-green: #00db84;
+}
+
+body {
+	white-space: nowrap;
+	background-color: var(--twitch-green);
+	color: black;
+	font-weight: bold;
+}
